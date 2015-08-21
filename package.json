@@ -1,0 +1,21 @@
+{
+  "name": "sync-config",
+  "version": "1.0.0",
+  "description": "Loads a JSON or YAML config file and bidirectionally syncs changes between node.js and the loaded file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "dependencies": {
+    "yamljs": "^0.2.3",
+    "deep-copy-tools": "^0.0.1"
+  },
+  "keywords": [
+    "YAML",
+    "config",
+    "loader",
+    "persistent"
+  ],
+  "author": "Stefan Hamminga <stefan@prjct.net> (https://prjct.net)",
+  "license": "LGPL-3.0"
+}
