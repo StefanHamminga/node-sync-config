@@ -37,4 +37,4 @@ writes each time a top level change occurs, no intelligence in that.
 ## License
 This project is licensed as [LGPLv3](http://www.gnu.org/licenses/lgpl-3.0.html), the license file is included in the project directory.
 
-Copyright 2015 [Stefan Hamminga](stefan@prjct.net) - [prjct.net](https://prjct.net)
+Copyright 2015 [Stefan Hamminga](mailto:stefan@prjct.net) - [prjct.net](https://prjct.net)
