@@ -1,6 +1,6 @@
 {
   "name": "sync-config",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Loads a JSON or YAML config file and bidirectionally syncs changes between node.js and the loaded file.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,13 @@
   "dependencies": {
     "yamljs": "^0.2.3",
     "deep-copy-tools": "^0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanHamminga/node-sync-config"
+  },
+  "bugs": {
+    "url": "https://github.com/StefanHamminga/node-sync-config/issues"
   },
   "keywords": [
     "YAML",
